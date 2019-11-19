@@ -3,8 +3,8 @@ Enjoy!
 
 ## Projects
 ### Science
->1. fMRI Learning Task
+1. Probabilistic selection task with gustatory stimuli for fMRI
 ### Social Projects
->1. [Online Platform for exchanging protocols (e.g. oral exams)](https://github.com/oreiner/Digitales_Skriptenzimmer.git)
->2. [Online Platform  for exchanging experiences on topics (e.g. academic courses)](https://github.com/oreiner/Wahlpflichtblock-Gutachter.git)
->3. [Browser Add-On for Klips2](https://github.com/oreiner/WPB-Gutacher-Notenspiegel.git)
+1. [Online Platform for exchanging protocols (e.g. oral exams)](https://github.com/oreiner/Digitales_Skriptenzimmer.git)
+2. [Online Platform  for exchanging experiences on topics (e.g. academic courses)](https://github.com/oreiner/Wahlpflichtblock-Gutachter.git)
+3. [Browser Add-On for Klips2](https://github.com/oreiner/WPB-Gutacher-Notenspiegel.git)
