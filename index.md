@@ -1,7 +1,9 @@
+# Projects
+
 Here you can find a few of my previous and running projects, download them for your own use or, of course, contribute to them.
 Enjoy!
 
-## Projects
+
 ### Science
 1. Probabilistic selection task with gustatory stimuli for fMRI
 ### Social Projects
