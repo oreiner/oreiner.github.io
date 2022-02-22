@@ -8,4 +8,4 @@ Enjoy!
 ## Web & Social Projects
 1. [Online Platform for exchanging protocols (e.g. oral exams)](https://github.com/oreiner/Digitales_Skriptenzimmer.git)
 2. [Online Platform  for exchanging experiences on topics (e.g. academic courses)](https://github.com/oreiner/Wahlpflichtblock-Gutachter.git)
-3. [Browser Add-On for Klips2](https://github.com/oreiner/WPB-Gutacher-Notenspiegel.git)
+3. [Browser Add-On for Klips2, injecting the info from the exchange platform above](https://github.com/oreiner/WPB-Gutacher-Notenspiegel.git) (deprecated)
